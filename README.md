@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your Shopify theme, **ShopiCommerce**:  
-
----
 
 ### **ShopiCommerce - A Modern Shopify Theme**  
 
